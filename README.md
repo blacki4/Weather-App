@@ -30,10 +30,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/blacki4/Weather-App.git
 
 # Navigate to project folder
-cd repo-name
+cd Weather-App
 
 # Install dependencies
 npm install
