@@ -5,7 +5,7 @@ A responsive weather app that provides accurate weather information for any city
 ---
 
 ## Live Demo 🌐
-Check out the live version of the app here: [Weather App on Netlify]((https://reactweatherappmalek.netlify.app/))
+Check out the live version of the app here: [Weather App on Netlify](https://reactweatherappmalek.netlify.app/)
 
 ---
 
